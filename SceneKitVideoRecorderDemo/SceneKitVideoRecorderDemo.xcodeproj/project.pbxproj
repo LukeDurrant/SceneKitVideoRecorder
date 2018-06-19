@@ -135,7 +135,6 @@
 				2C1EA3761F6281C200E97D5E /* Frameworks */,
 				2C1EA3771F6281C200E97D5E /* Resources */,
 				20AD365B3D83A9616714578E /* [CP] Embed Pods Frameworks */,
-				A066F685F5FEB5EE3CC5E552 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -247,21 +246,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SceneKitVideoRecorderDemo/Pods-SceneKitVideoRecorderDemo-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A066F685F5FEB5EE3CC5E552 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SceneKitVideoRecorderDemo/Pods-SceneKitVideoRecorderDemo-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FC79FC53330B284B1A4714B2 /* [CP] Check Pods Manifest.lock */ = {
